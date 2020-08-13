@@ -73,3 +73,8 @@ FireHydrant
 
 # There are some big caveats
 
+- I am not a mental health practitioner or expert
+- These are individual studies so take them with a grain of salt
+^ I'm not an expert
+^ An individual study is just one data point. They need to be duplicated.
+
