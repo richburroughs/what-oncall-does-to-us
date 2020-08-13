@@ -11,7 +11,7 @@ FireHydrant
 
 # It was 1996
 
-^ Got a job at an ISP and got promoted to sysadmin
+^ Got a call center job at an ISP and got promoted to sysadmin
 
 ---
 
