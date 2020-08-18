@@ -81,4 +81,16 @@ FireHydrant
 
 ---
 
+# But first, let's talk about sleep
+
+---
+
+![100%](images/ted_talk.png)
+
+^ There was a great Ted talk from 2019 by a sleep scientist named Matt Walker
+^ Not specific to on-call but we know on-call can cause sleep deprivation
+^ His team did a study where they found 
+
+---
+
 
