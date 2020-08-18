@@ -34,7 +34,7 @@ FireHydrant
 
 ---
 
-# My mental health had deteriorated a lot.
+# My mental health had deteriorated a lot
 
 ^ I started having very bad claustrophobia and had panic attacks when I would board airplanes.
 ^ The first time I had a debate with myself about asking them to let me off of the plane.
@@ -57,7 +57,7 @@ FireHydrant
 
 ---
 
-# Meanwhile... Science.
+# Meanwhile... Science
 
 ^ Meanwhile there are psychologists who have been studying the effect of being oncall for decades. 
 ^ Sometimes as people in tech we think we know it all and ignore the work of people in other disciplines.
@@ -74,14 +74,18 @@ FireHydrant
 # There are some big caveats
 
 - I am not a mental health practitioner or expert
+- I've looked into a small number of studies
 - These are individual studies so take them with a grain of salt
 
 ^ I'm not an expert
+^ I've looked into a small number of studies
 ^ An individual study is just one data point. They need to be duplicated.
 
 ---
 
 # But first, let's talk about sleep
+
+^ Before we get into the oncall studies, let's talk for a moment about sleep
 
 ---
 
@@ -89,8 +93,27 @@ FireHydrant
 
 ^ There was a great Ted talk from 2019 by a sleep scientist named Matt Walker
 ^ Not specific to on-call but we know on-call can cause sleep deprivation
-^ His team did a study where they found 
+^ His team did a study where they found people in a sleep deprived group had a 40% learning deficit
 
 ---
+
+# Some other things he mentions that can be caused by sleep deprivation
+
+- Heart attacks
+- Car crashes
+- Immune system deficiency
+- Increased risk of cancer
+
+---
+
+# Things to consider when looking at on-call studies
+
+- Many of the studies look at people in other professions
+- Some are focused on people who have to be on site
+- Some look at "extended work availability"
+
+---
+
+# "Extended work availability and its relation with start-of-day mood and cortisol (2016)"
 
 
