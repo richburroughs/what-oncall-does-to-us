@@ -27,7 +27,7 @@ FireHydrant
 
 ---
 
-# It was 2016
+# Fast forward to 2016
 
 ^ Fast forward 20 years. I'd been on-call for most of that time, in rotations of different sizes. Some as small as 3 people, some as big as 10.
 ^ For a while I was on a team where our boss divided us up by time slots instead of weeks. I was oncall every evening from 7PM to midnight.
@@ -75,6 +75,10 @@ FireHydrant
 
 - I am not a mental health practitioner or expert
 - These are individual studies so take them with a grain of salt
+
 ^ I'm not an expert
 ^ An individual study is just one data point. They need to be duplicated.
+
+---
+
 
