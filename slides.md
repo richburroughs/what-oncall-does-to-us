@@ -114,6 +114,51 @@ FireHydrant
 
 ---
 
-# "Extended work availability and its relation with start-of-day mood and cortisol (2016)"
+# First study: "Extended work availability and its relation with start-of-day mood and cortisol (2016)"
+
+---
+
+# Details
+
+- 132 people from 13 organizations completed surveys
+- Surveys done on 4 days on and 4 days off
+- Subset of 51 people provied morning cortisol levels
+
+---
+
+# Findings
+
+> "...significant effects of extended work availability on the daily start-of-day mood and cortisol awakening response"
+
+---
+
+# What is the cortisol awakeing response (CAR)?
+
+^ According to Wikipedia it's "an increase between 38% and 75% in cortisol levels peaking 30–45 minutes after awakening in the morning in some people."
+^ The purpose is unknown but "One hypothesis is: "that the cortisol rise after awakening may accompany an activation of prospective memory representations at awakening enabling individual's orientation about the self in time and space as well as anticipation of demands of the upcoming day"
+^ This is definitely an impact to our bodies that I wouldn't have known about without digging into this.
+
+---
+
+![100%](images/cortisol_study_table.png)
+
+^ So you'll clearly see from this table...
+^ Some of these studies can be pretty hard to parse
+^ I'm not an academic. I was a Theatre major in college and dropped out
+^ It's ok to look at secondary sources
+
+---
+
+# Scientific American article
+
+> “Participants marked lower moods the morning after being on-call compared to mornings after days when they were not required to be available, which the researchers believe occurs because readiness to respond makes it harder to recover from work. The possibility alone impeded recovery from work, as the effects persisted even when no calls came.”
+
+---
+
+# Scientific American article
+
+> “People who were able to detach from work even while on call were most likely to recoup their energies and avoid effects on mood and cortisol. In lieu of actually reducing work availability, practicing mental detachment from work might be the next best approach.”
+
+---
 
 
