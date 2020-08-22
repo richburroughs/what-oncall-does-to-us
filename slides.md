@@ -34,7 +34,7 @@ FireHydrant
 
 ---
 
-# My mental health had deteriorated a lot
+# My mental health had deteriorated
 
 ^ I started having very bad claustrophobia and had panic attacks when I would board airplanes.
 ^ The first time I had a debate with myself about asking them to let me off of the plane.
@@ -118,11 +118,11 @@ FireHydrant
 
 ---
 
-# Details
+# Methodology
 
 - 132 people from 13 organizations completed surveys
 - Surveys done on 4 days on and 4 days off
-- Subset of 51 people provied morning cortisol levels
+- Subset of 51 people provided morning cortisol levels
 
 ---
 
@@ -153,11 +153,62 @@ FireHydrant
 
 > “Participants marked lower moods the morning after being on-call compared to mornings after days when they were not required to be available, which the researchers believe occurs because readiness to respond makes it harder to recover from work. The possibility alone impeded recovery from work, as the effects persisted even when no calls came.”
 
+^ The effetcs persisted even when no calls came
+
 ---
 
 # Scientific American article
 
 > “People who were able to detach from work even while on call were most likely to recoup their energies and avoid effects on mood and cortisol. In lieu of actually reducing work availability, practicing mental detachment from work might be the next best approach.”
+
+^ Mental detachment
+
+---
+
+# Second Study:
+
+---
+
+
+---
+
+
+---
+
+# Third Study: "Understanding the Differing Impacts of On-Call Work for Males and Females: Results from an Online Survey (2019)"
+
+---
+
+
+---
+
+
+---
+
+# Coping strategies
+
+---
+
+# Team based
+
+- Chaos Engineering
+- Improving incident response processes and tools
+- Alerting based on SLOs/Error budgets
+
+---
+
+# Alex's book
+
+---
+
+# Individual based
+
+- Mindful meditation
+- Therapy
+
+---
+
+# When Panic Attacks
 
 ---
 
