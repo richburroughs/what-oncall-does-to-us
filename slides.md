@@ -114,7 +114,40 @@ FireHydrant
 
 ---
 
-# First study: "Extended work availability and its relation with start-of-day mood and cortisol (2016)"
+# First Study: "The Relationship of On-Call Work with Fatigue, Work-Home Interference, and Perceived Performance Difficulties (2015)"
+
+---
+
+# Methodology
+
+- Survey of Dutch employees
+- Started with 5347 respondents, final sample was 157
+- Subjects ranged from ages 23-69 years and were 71% males
+- This focused on off-site on-call
+
+---
+
+# Findings
+
+> "Our results suggest that it is employees' experience of being on-call, especially the experience of stress due to the unpredictability, rather than the amount of exposure, that is related to fatigue, WHI, and perceived on-call performance difficulties."
+
+^ WHI stands for Work-home interference
+
+---
+
+# Findings
+
+> "This means that even a low amount of (active) on-call hours a month and even a low frequency of being called to work can be related to an increase in fatigue and work-home interference, when employees experience being on-call negatively."
+
+---
+
+# Detachment
+
+> "Psychological detachment refers to mentally disengaging from work and not thinking about work-related issues. A lack of detachment relates to negative recovery-related outcomes such as fatigue, work-home interference, and emotional exhaustion"
+
+---
+
+# Second study: "Extended work availability and its relation with start-of-day mood and cortisol (2016)"
 
 ---
 
@@ -162,16 +195,6 @@ FireHydrant
 > “People who were able to detach from work even while on call were most likely to recoup their energies and avoid effects on mood and cortisol. In lieu of actually reducing work availability, practicing mental detachment from work might be the next best approach.”
 
 ^ Mental detachment
-
----
-
-# Second Study:
-
----
-
-
----
-
 
 ---
 
