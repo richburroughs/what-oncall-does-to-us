@@ -208,8 +208,7 @@ FireHydrant
 - Online survey of 228 subjects
 - Looked at "sex differences" related to oncall
 
-^ Focused on sex not gender, although people likely self identified
-
+^ Focused on sex not gender, although people likely self identified. It's not clear.
 
 ---
 
@@ -219,6 +218,12 @@ FireHydrant
 
 ^ They mention that previous studies show "women spend nearly twice as long as men on childcare and domestic duties"
 ^ Being a man with no kids, this isn't something I'd considered
+
+---
+
+![100%](images/study3_table.png)
+
+^ The women say they are impacted more on all three of these questions
 
 ---
 
