@@ -128,7 +128,7 @@ FireHydrant
 
 # Findings
 
-> "...significant effects of extended work availability on the daily start-of-day mood and cortisol awakening response"
+> "...significant effects of extended work availability on the daily start-of-day mood and cortisol awakening response."
 
 ---
 
@@ -206,9 +206,32 @@ FireHydrant
 - Mindful meditation
 - Therapy
 
+^ Brain scans shows meditation has an impact
+^ Detachment
+^ Self-compassion
+^ CBT
+
 ---
 
 # When Panic Attacks
+
+---
+
+# You have to be your own advocate
+
+^ Something I learned in my career
+^ No matter how much you like your team, manager and company, in the end you have to look out for yourself
+^ In my case that meant getting out of SRE
+
+---
+
+# Be kind to yourself
+
+^ Exercise from When Panic Attacks where you imagine a friend in the same situation 
+
+---
+
+# We're hiring
 
 ---
 
