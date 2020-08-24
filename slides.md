@@ -242,7 +242,7 @@ FireHydrant
 
 ---
 
-# Alex's book
+![80%](images/alex_book.png)
 
 ---
 
@@ -258,7 +258,7 @@ FireHydrant
 
 ---
 
-# When Panic Attacks
+![20%](images/when_panic_attacks.jpg)
 
 ---
 
