@@ -67,7 +67,8 @@ FireHydrant
 
 # So let's look at some studies
 
-^ I'm going to share with you a few  psychological studies about being on-call
+^ I'm going to share with you a few scientific studies about being on-call
+^ Psychological studies are a great way to identify counterintuitive things, or areas we are blind to due to our biases
 
 ---
 
@@ -202,20 +203,36 @@ FireHydrant
 
 ---
 
+# Methodology
+
+- Online survey of 228 subjects
+- Looked at "sex differences" related to oncall
+
+^ Focused on sex not gender, although people likely self identified
+
 
 ---
 
+# Findings
+
+"Results indicated that female respondents were more likely to be responsible for running their household..."
+
+^ They mention that previous studies show "women spend nearly twice as long as men on childcare and domestic duties"
+^ Being a man with no kids, this isn't something I'd considered
 
 ---
 
 # Coping strategies
 
+^ So we all know oncall is hard, but how do we cope with it?
+
 ---
 
 # Team based
 
+- Improving incident response processes, tools, and learning
+- On-call training
 - Chaos Engineering
-- Improving incident response processes and tools
 - Alerting based on SLOs/Error budgets
 
 ---
@@ -229,9 +246,9 @@ FireHydrant
 - Mindful meditation
 - Therapy
 
-^ Brain scans shows meditation has an impact
 ^ Detachment
-^ Self-compassion
+^ Scientific studies like rain scans show meditation has an impact
+^ Meditation often focuses on self-compassion - Loving-Kindess
 ^ CBT
 
 ---
