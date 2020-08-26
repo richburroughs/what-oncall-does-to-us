@@ -2,9 +2,11 @@ theme: Zurich, 5
 
 # What On-Call Does to Us
 
+---
+
 Rich Burroughs
 Senior Developer Advocate
-FireHydrant
+FireHydrant.com
 @richburroughs
 
 ---
@@ -49,7 +51,7 @@ FireHydrant
 
 ---
 
-# We all have stories
+# We all have on-call stories
 
 ^ Talk to anyone who has been on-call and they can likely tell you about pain they've felt from it.
 ^ We talk about these things a lot. I've heard stories from a lot of my peers as well.
@@ -115,14 +117,16 @@ FireHydrant
 
 ---
 
-# First Study: "The Relationship of On-Call Work with Fatigue, Work-Home Interference, and Perceived Performance Difficulties (2015)"
+## First Study: "The Relationship of On-Call Work with Fatigue, Work-Home Interference, and Perceived Performance Difficulties (2015)"
+
+### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628979/
 
 ---
 
 # Methodology
 
 - Survey of Dutch employees
-- Started with 5347 respondents, final sample was 157
+- Started with 5,347 respondents, final sample was 157
 - Subjects ranged from ages 23-69 years and were 71% males
 - This focused on off-site on-call
 
@@ -148,7 +152,9 @@ FireHydrant
 
 ---
 
-# Second study: "Extended work availability and its relation with start-of-day mood and cortisol (2016)"
+## Second study: "Extended work availability and its relation with start-of-day mood and cortisol (2016)"
+
+### https://content.apa.org/record/2015-35552-001
 
 ---
 
@@ -166,7 +172,7 @@ FireHydrant
 
 ---
 
-# What is the cortisol awakeing response (CAR)?
+# What is the cortisol awakening response (CAR)?
 
 ^ According to Wikipedia it's "an increase between 38% and 75% in cortisol levels peaking 30–45 minutes after awakening in the morning in some people."
 ^ The purpose is unknown but "One hypothesis is: "that the cortisol rise after awakening may accompany an activation of prospective memory representations at awakening enabling individual's orientation about the self in time and space as well as anticipation of demands of the upcoming day"
@@ -185,7 +191,9 @@ FireHydrant
 
 # Scientific American article
 
-> “Participants marked lower moods the morning after being on-call compared to mornings after days when they were not required to be available, which the researchers believe occurs because readiness to respond makes it harder to recover from work. The possibility alone impeded recovery from work, as the effects persisted even when no calls came.”
+> “Participants marked lower moods the morning after being on-call... The possibility alone impeded recovery from work, as the effects persisted even when no calls came.”
+
+## https://www.scientificamerican.com/article/the-strain-of-always-being-on-call/
 
 ^ The effetcs persisted even when no calls came
 
@@ -199,7 +207,9 @@ FireHydrant
 
 ---
 
-# Third Study: "Understanding the Differing Impacts of On-Call Work for Males and Females: Results from an Online Survey (2019)"
+## Third Study: "Understanding the Differing Impacts of On-Call Work for Males and Females: Results from an Online Survey (2019)"
+
+### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6388272/
 
 ---
 
