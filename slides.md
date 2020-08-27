@@ -29,6 +29,8 @@ FireHydrant.com
 
 # I was stoked
 
+![inline 100%](images/kip.gif)
+
 ^ I think I was probably excited about this. Suddenly I had some extra responsibility.
 
 ---
