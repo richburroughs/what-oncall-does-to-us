@@ -65,9 +65,9 @@ FireHydrant.com
 
 ---
 
-# Meanwhile... Science
+# Meanwhile... Scientists have studied on-call
 
-^ Meanwhile there are psychologists who have been studying the effect of being oncall for decades. 
+^ Meanwhile there are psychologists and other scientists who have been studying the effect of being oncall for decades. 
 ^ Sometimes as people in tech we think we know it all and ignore the work of people in other disciplines.
 ^ We should learn from them instad.
 
@@ -302,8 +302,8 @@ FireHydrant.com
 
 ---
 
-# We're hiring
+![inline 160%](images/Logo.png)
 
----
-
-
+^ Thank you all for listening
+^ I work at FireHydrant
+^ I'm happy to say right now that we're hiring
