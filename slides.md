@@ -2,6 +2,8 @@ theme: Customized Zurich, 6
 
 # What On-Call Does to Us
 
+^ Looking at what science can tell us about the impact of on-call
+
 ---
 
 Rich Burroughs
@@ -13,6 +15,8 @@ FireHydrant.com
 
 ---
 
+# 1996
+
 ![inline 70%](images/independence_day.jpg)
 
 ^ It was 1996, the year that Independence Day was relased
@@ -21,7 +25,7 @@ FireHydrant.com
 
 ---
 
-# Here's your pager
+![inline 80%](images/pager.jpg)
 
 ^ My boss got me a pager. I was the only sysadmin, and I was suddenly on-call all of the time for a small number of Linux hosts (5-10)
 
@@ -114,7 +118,7 @@ FireHydrant.com
 
 ---
 
-## First On-Call Study: "The Relationship of On-Call Work with Fatigue, Work-Home Interference, and Perceived Performance Difficulties (2015)"
+## First Study: "The Relationship of On-Call Work with Fatigue, Work-Home Interference, and Perceived Performance Difficulties (2015)"
 
 ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628979/
 
@@ -232,7 +236,7 @@ FireHydrant.com
 # Methodology
 
 - Online survey of 228 subjects
-- Looked at "sex differences" related to oncall
+- Looked at "sex differences" related to on-call
 
 ^ Focused on sex not gender, although people likely self identified. It's not clear.
 
