@@ -1,4 +1,4 @@
-theme: Zurich, 5
+theme: Customized Zurich, 5
 
 # What On-Call Does to Us
 
@@ -75,31 +75,20 @@ FireHydrant.com
 
 ^ I'm going to share with you a few scientific studies about being on-call
 ^ Psychological studies are a great way to identify counterintuitive things, or areas we are blind to due to our biases
-
----
-
-# There are some big caveats
-
 - I am not a mental health practitioner or expert
-- I've looked into a small number of studies
-- These are individual studies so take them with a grain of salt
-
-^ I'm not an expert
-^ I've looked into a small number of studies
-^ An individual study is just one data point. They need to be duplicated.
 
 ---
 
-# But first, let's talk about sleep
+# Sleep studies
 
-^ Before we get into the oncall studies, let's talk for a moment about sleep
+^ Before we get into the oncall studies, let's talk for a moment about sleep studies
+^ We all know on-call can cause sleep deprivation
 
 ---
 
 ![100%](images/ted_talk.png)
 
 ^ There was a great Ted talk from 2019 by a sleep scientist named Matt Walker
-^ Not specific to on-call but we know on-call can cause sleep deprivation
 ^ His team did a study where they found people in a sleep deprived group had a 40% learning deficit
 
 ---
@@ -123,7 +112,7 @@ FireHydrant.com
 
 ---
 
-## First Study: "The Relationship of On-Call Work with Fatigue, Work-Home Interference, and Perceived Performance Difficulties (2015)"
+## First On-Call Study: "The Relationship of On-Call Work with Fatigue, Work-Home Interference, and Perceived Performance Difficulties (2015)"
 
 ### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628979/
 
@@ -140,21 +129,25 @@ FireHydrant.com
 
 # Findings
 
-> "Our results suggest that it is employees' experience of being on-call, especially the experience of stress due to the unpredictability, rather than the amount of exposure, that is related to fatigue, WHI, and perceived on-call performance difficulties."
+> "Our results suggest that it is employees' experience of being on-call, especially the experience of stress due to the unpredictability, _rather than the amount of exposure_, that is related to fatigue, WHI, and perceived on-call performance difficulties."
+
+## WHI = work-home interference
 
 ^ WHI stands for Work-home interference
+^ It's what it sounds like, a negative interaction between those things
+^ They found the issue is not the amount of exposure, or in our case, incidents
 
 ---
 
 # Findings
 
-> "This means that even a low amount of (active) on-call hours a month and even a low frequency of being called to work can be related to an increase in fatigue and work-home interference, when employees experience being on-call negatively."
+> "This means that _even a low amount_ of (active) on-call hours a month and _even a low frequency_ of being called to work can be related to an increase in fatigue and work-home interference, when employees experience being on-call negatively."
 
 ---
 
 # Detachment
 
-> "Psychological detachment refers to mentally disengaging from work and not thinking about work-related issues. A lack of detachment relates to negative recovery-related outcomes such as fatigue, work-home interference, and emotional exhaustion"
+> "Psychological detachment refers to _mentally disengaging_ from work and not thinking about work-related issues. A lack of detachment relates to negative recovery-related outcomes such as _fatigue, work-home interference, and emotional exhaustion_."
 
 ---
 
