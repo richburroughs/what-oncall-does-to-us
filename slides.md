@@ -173,7 +173,22 @@ FireHydrant.com
 
 # What is the cortisol awakening response (CAR)?
 
+---
+
+# CAR
+
+> "..an increase between 38% and 75% in cortisol levels peaking 30–45 minutes after awakening in the morning in some people."
+-- Wikipedia
+
 ^ According to Wikipedia it's "an increase between 38% and 75% in cortisol levels peaking 30–45 minutes after awakening in the morning in some people."
+
+---
+
+# CAR
+
+> The function of CAR is unknown but one hypothesis is "that the cortisol rise after awakening may accompany an activation of prospective memory representations at awakening enabling individual's _orientation about the self in time and space as well as anticipation of demands of the upcoming day_."
+-- Wikipedia
+
 ^ The purpose is unknown but "One hypothesis is: "that the cortisol rise after awakening may accompany an activation of prospective memory representations at awakening enabling individual's orientation about the self in time and space as well as anticipation of demands of the upcoming day"
 ^ This is definitely an impact to our bodies that I wouldn't have known about without digging into this.
 
