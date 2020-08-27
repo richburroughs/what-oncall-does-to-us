@@ -198,7 +198,7 @@ FireHydrant.com
 
 ![100%](images/cortisol_study_table.png)
 
-^ So you'll clearly see from this table...
+^ If there's anything you didn't understand about this study, just look at this table real quick
 ^ Some of these studies can be pretty hard to parse
 ^ I'm not an academic. I was a Theatre major in college and dropped out
 ^ It's ok to look at secondary sources
