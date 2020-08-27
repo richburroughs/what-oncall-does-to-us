@@ -9,10 +9,14 @@ Senior Developer Advocate
 FireHydrant.com
 @richburroughs
 
+^ FireHydrant, an incident response tool
+
 ---
 
-# It was 1996
+![inline 70%](images/independence_day.jpg)
 
+^ It was 1996, the year that Independence Day was relased
+^ It was a simpler time
 ^ Got a call center job at an ISP and got promoted to sysadmin
 
 ---
@@ -106,6 +110,8 @@ FireHydrant.com
 - Car crashes
 - Immune system deficiency
 - Increased risk of cancer
+
+## https://www.ted.com/talks/matt_walker\_sleep\_is\_your\_superpower/footnotes
 
 ---
 
@@ -201,7 +207,7 @@ FireHydrant.com
 
 # Scientific American article
 
-> “People who were able to detach from work even while on call were most likely to recoup their energies and avoid effects on mood and cortisol. In lieu of actually reducing work availability, practicing mental detachment from work might be the next best approach.”
+> “People who were able to detach from work even while on call were most likely to recoup their energies and avoid effects on mood and cortisol."
 
 ^ Mental detachment
 
