@@ -248,7 +248,6 @@ FireHydrant.com
 "Results indicated that female respondents were more likely to be responsible for running their household..."
 
 ^ They mention that previous studies show "women spend nearly twice as long as men on childcare and domestic duties"
-^ Being a man with no kids, this isn't something I'd considered
 
 ---
 
@@ -262,6 +261,7 @@ FireHydrant.com
 | Somewhat | 43.8% | 29.6% |
 | A lot/very much | 33.8% | 57.1% |
 
+^ Let's look at a few questions from the study
 ^ Many more women saying a lot
 
 ---
@@ -276,7 +276,8 @@ FireHydrant.com
 | Somewhat | 36.2% | 41.8% |
 | A lot/very much | 26.9% | 38.8% |
 
-^ Less of an impact than the last question but still more women saying a lot and very much
+^ Less of an impact than the last question but still more females saying somewhat and a lot
+
 ---
 
 # How much does on-call work interfere with... 
@@ -289,9 +290,14 @@ FireHydrant.com
 | Somewhat | 29.2% | 39.8% |
 | A lot/very much | 20.0% | 32.7% |
 
+^ Even less of an impact but it's still impacting females more
+
 ---
 
 # I didn't know this 
+
+^ I'm single and have no children
+^ It makes sense but I just hadn't considered it a lot
 
 ---
 
@@ -312,10 +318,35 @@ FireHydrant.com
 
 # Team based
 
-- Improving incident response processes, tools, and learning
-- On-call training
-- Chaos Engineering
-- Alerting based on SLOs/Error budgets
+---
+
+# Improving incident response
+
+- Processes
+- Tools
+- Learning from incidents
+
+^ Incident commander training
+^ Tools to manage incidents, and related tools like Observability
+^ Resilience Engineering
+
+---
+
+# On-call training
+
+
+
+---
+
+# Chaos Engineering
+
+---
+
+# Changing how we alert
+
+- Make alerts actionable
+- Don't alert on 50& CPU, open a tiket
+- Alert based on SLOs/Error budgets
 
 ---
 
