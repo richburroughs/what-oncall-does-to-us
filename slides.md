@@ -9,7 +9,7 @@ theme: Customiz Zurich, 6
 Rich Burroughs
 Senior Developer Advocate
 FireHydrant.com
-@richburroughs
+@richburroughs on Twitter
 
 ^ FireHydrant, an incident response tool
 
@@ -41,7 +41,9 @@ FireHydrant.com
 
 # Fast forward to 2016
 
-^ Fast forward 20 years. I'd been on-call for most of that time, in rotations of different sizes. Some as small as 3 people, some as big as 10.
+^ Fast forward 20 years.
+^ I worked next as a sysadmin at WebMD, when the company was taking out Super Bowl ads, then at a web hosting company, a payments company, a company with an email maarketing platform, and then finally as an SRE at Puppet
+ I'd been on-call for most of that time, in rotations of different sizes. Some as small as 3 people, some as big as 10.
 ^ For a while I was on a team where our boss divided us up by time slots instead of weeks. I was oncall every evening from 7PM to midnight.
 
 ---
@@ -81,7 +83,7 @@ FireHydrant.com
 
 ^ I'm going to share with you a few scientific studies about being on-call
 ^ Psychological studies are a great way to identify counterintuitive things, or areas we are blind to due to our biases
-- I am not a mental health practitioner or expert
+^ I am not a mental health practitioner or expert
 
 ---
 
@@ -149,6 +151,8 @@ FireHydrant.com
 
 > "This means that _even a low amount_ of (active) on-call hours a month and _even a low frequency_ of being called to work can be related to an increase in fatigue and work-home interference, when employees experience being on-call negatively."
 
+^ Even a low frequency of interruptions, or incidents in our cases
+
 ---
 
 # Detachment
@@ -195,7 +199,9 @@ FireHydrant.com
 > The function of CAR is unknown but one hypothesis is "that the cortisol rise after awakening may accompany an activation of prospective memory representations at awakening enabling individual's _orientation about the self in time and space as well as anticipation of demands of the upcoming day_."
 -- Wikipedia
 
-^ The purpose is unknown but "One hypothesis is: "that the cortisol rise after awakening may accompany an activation of prospective memory representations at awakening enabling individual's orientation about the self in time and space as well as anticipation of demands of the upcoming day"
+^ The purpose is unknown 
+^ One hypothesis
+^ If that theory is true, think of it like resetting and preparing for the day
 ^ This is definitely an impact to our bodies that I wouldn't have known about without digging into this.
 
 ---
@@ -203,19 +209,20 @@ FireHydrant.com
 ![100%](images/cortisol_study_table.png)
 
 ^ If there's anything you didn't understand about this study, just look at this table real quick
-^ Some of these studies can be pretty hard to parse
-^ I'm not an academic. I was a Theatre major in college and dropped out
-^ It's ok to look at secondary sources
+^ Some of these studies can be pretty hard to parse if you're not an academic.
+^ I'm not. I was a Theatre major in college and dropped out
+^ If a study it hard, try looking at secondary sources
 
 ---
 
 # Scientific American article
 
-> “Participants marked lower moods the morning after being on-call... The possibility alone impeded recovery from work, as the effects persisted even when no calls came.”
+> “Participants marked lower moods the morning after being on-call.... The possibility alone impeded recovery from work, as the effects persisted even when no calls came.”
 
 ## https://www.scientificamerican.com/article/the-strain-of-always-being-on-call/
 
 ^ The effetcs persisted even when no calls came
+^ Just like the first study
 
 ---
 
@@ -223,7 +230,7 @@ FireHydrant.com
 
 > “People who were able to detach from work even while on call were most likely to recoup their energies and avoid effects on mood and cortisol."
 
-^ Mental detachment
+^ Mental detachment again
 
 ---
 
@@ -334,23 +341,24 @@ FireHydrant.com
 
 # On-call training
 
-
-
----
-
-# Chaos Engineering
+- We're not good at this as an industry
+- Fire drills
+- Tabletop exercises
+- Chaos Engineering
 
 ---
 
 # Changing how we alert
 
 - Make alerts actionable
-- Don't alert on 50& CPU, open a tiket
+- Don't alert on 50& CPU
 - Alert based on SLOs/Error budgets
 
 ---
 
 ![80%](images/alex_book.png)
+
+^ Available for Kindle now, release date is September 15
 
 ---
 
@@ -360,9 +368,10 @@ FireHydrant.com
 - Therapy
 
 ^ Detachment
-^ Scientific studies like rain scans show meditation has an impact
-^ Meditation often focuses on self-compassion - Loving-Kindess
-^ CBT
+^ Scientific studies like brain scans show meditation has an impact
+^ Many meditation teachers use a meditation focused on  self-compassion - called Loving-Kindess
+^ I've been in therapy for a few years
+^ Cognitive Behaviour Therapy focuses on the negative beliefs that cause us to be anxious or depressed
 
 ---
 
@@ -386,6 +395,16 @@ FireHydrant.com
 
 ![inline 160%](images/Logo.png)
 
-^ Thank you all for listening
+^ Thank you all for listening and to the organizers
+^ I attended DI Devops and it's great to be here
 ^ I work at FireHydrant
-^ I'm happy to say right now that we're hiring
+^ I'm happy to say that we're hiring
+
+---
+
+# Feedback is appreciated
+
+# https://bit.ly/3jmHzm8
+
+^ Would love to hear your feedback on the talk
+^ It's anonymous and should just take a few minutes
