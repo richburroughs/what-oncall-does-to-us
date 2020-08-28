@@ -2,8 +2,8 @@ theme: Customiz Zurich, 6
 
 # What On-Call Does to Us
 
-^ Looking at what science can tell us about the impact of on-call
-^ I attended Deserted Island DevOps and I'm very happy to be here
+^ Looking at what science can tell us about the impact being of on-call
+^ I attended Deserted Island DevOps and had a blast, and  I'm super happy to be here
 
 ---
 
@@ -82,7 +82,7 @@ FireHydrant.com
 
 # So let's look at some studies
 
-- Psychological studies are a great way to identify thinga that are counterintuitive, or areas we are blind to due to our biases
+- Psychological studies are a great way to identify things that are counterintuitive, or areas we are blind to due to our biases
 - Individual studies are just one data point
 - I'm not a mental health professional
 
@@ -117,6 +117,10 @@ FireHydrant.com
 
 ---
 
+# On-call studies
+
+---
+
 # Things to consider when looking at on-call studies
 
 - Many of the studies look at people in other professions
@@ -142,13 +146,13 @@ FireHydrant.com
 
 # Findings
 
-> "Our results suggest that it is employees' experience of being on-call, especially the experience of stress due to the unpredictability, _rather than the amount of exposure_, that is related to fatigue, WHI, and perceived on-call performance difficulties."
+> "Our results suggest that it is employees' experience of being on-call, especially the experience of stress _due to the unpredictability, rather than the amount of exposure_, that is related to fatigue, WHI, and perceived on-call performance difficulties."
 
 ## WHI = work-home interference
 
 ^ WHI stands for Work-home interference
-^ It's what it sounds like, a negative interaction between those things
-^ They found the issue is not the amount of exposure, or in our case, incidents
+^ It's what it sounds like, a negative interaction between those two domains
+^ They found the issue is unpredictability, not the amount of exposure, or in our case, incidents
 
 ---
 
@@ -201,7 +205,7 @@ FireHydrant.com
 
 # CAR
 
-> The function of CAR is unknown but one hypothesis is "that the cortisol rise after awakening may accompany an activation of prospective memory representations at awakening enabling individual's _orientation about the self in time and space as well as anticipation of demands of the upcoming day_."
+> The function of CAR is unknown but one hypothesis is "that the cortisol rise after awakening may accompany an activation of prospective memory representations at awakening _enabling individual's orientation about the self in time and space as well as anticipation of demands of the upcoming day_."
 -- Wikipedia
 
 ^ The purpose is unknown 
@@ -222,7 +226,7 @@ FireHydrant.com
 
 # Scientific American article
 
-> “Participants marked lower moods the morning after being on-call.... The possibility alone impeded recovery from work, as the effects persisted even when no calls came.”
+> “Participants marked lower moods the morning after being on-call.... The possibility alone impeded recovery from work, as _the effects persisted even when no calls came_.”
 
 ## https://www.scientificamerican.com/article/the-strain-of-always-being-on-call/
 
@@ -248,7 +252,7 @@ FireHydrant.com
 # Methodology
 
 - Online survey of 228 subjects
-- Looked at "sex differences" related to on-call
+- Looked at "sex differences" related to on-call (not gender)
 
 ^ I'm not crazy about this being binary
 ^ Focused on sex not gender, although it was an online survey so people likely self identified. It's not clear.
@@ -315,10 +319,9 @@ FireHydrant.com
 
 # To summarize the studies
 
-- The uncertainty of being on-call is impactful
-- Negative effects can happen with no incidents
-- Mental detachment can help recovery
-- Being on-call interferes more with some people's lives
+- The uncertainty of being on-call is impactful, even if there are no incidents
+- Mental detachment can help with recovery
+- Being on-call interferes more with some people's lives than others
 
 ---
 
@@ -357,7 +360,7 @@ FireHydrant.com
 # Changing how we alert
 
 - Make alerts actionable
-- Don't alert on 50& CPU
+- Don't alert on 50% CPU
 - Alert based on SLOs/Error budgets
 
 ---
@@ -373,10 +376,17 @@ FireHydrant.com
 - Having each other's back
 - Taking someone's shift if they're having a tough week
 
+^ Checking in
+
 ---
 
 # What can we do as individuals?
 
+---
+
+# Coping mechanisms
+
+- Ask for help if you need it
 - Look for ways to get mental detachment
 - Mindful meditation
 - Therapy
@@ -397,6 +407,7 @@ FireHydrant.com
 
 ^ Something I learned in my career
 ^ No matter how much you like your team, manager and company, in the end you have to look out for yourself
+^ That may mean finding a new team or a new company if you're not able to improve oncall where you are
 ^ In my case that meant getting out of SRE
 
 ---
