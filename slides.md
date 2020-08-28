@@ -82,9 +82,13 @@ FireHydrant.com
 
 # So let's look at some studies
 
+- Psychological studies are a great way to identify thinga that are counterintuitive, or areas we are blind to due to our biases
+- Individual studies are just one data point
+- I'm not a mental health professional
+
 ^ I'm going to share with you a few scientific studies about being on-call
-^ Psychological studies are a great way to identify counterintuitive things, or areas we are blind to due to our biases
-^ I am not a mental health practitioner or expert
+
+
 
 ---
 
@@ -318,34 +322,35 @@ FireHydrant.com
 
 ---
 
-# Coping strategies
+# Improving on-call to reduce the stress of uncertainty
 
-^ So we all know oncall is hard, but how do we cope with it?
-
----
-
-# Team based
+^ We all know oncall is hard, but how can we improve it it?
 
 ---
 
 # Improving incident response
 
-- Processes
-- Tools
+- Using incident response tooling for better communication and collaboration
+- Improving other tooling like Observability
 - Learning from incidents
 
 ^ Incident commander training
 ^ Tools to manage incidents, and related tools like Observability
-^ Resilience Engineering
+^ This includes retrospectices. Resilience Engineering folks have a lot to say about this.
 
 ---
 
 # On-call training
 
-- We're not good at this as an industry
-- Fire drills
-- Tabletop exercises
+- Training for incident response roles, like Incident Commander
+- Fire drills and tabletop exercises
 - Chaos Engineering
+
+^ We're not good at this as an industry
+^ You need to know how to perform your role and communicate
+^ Fire drills are a good way to practice working together
+^ We did tabletop exercises when I was at Puppet
+^ With Chaos Engineering you can inject faults into a system and practice how to respond
 
 ---
 
@@ -363,13 +368,21 @@ FireHydrant.com
 
 ---
 
-# Individual based
+# Empathy
 
+- Having each other's back
+- Taking someone's shift if they're having a tough week
+
+---
+
+# What can we do as individuals?
+
+- Look for ways to get mental detachment
 - Mindful meditation
 - Therapy
 
 ^ Detachment
-^ Scientific studies like brain scans show meditation has an impact
+^ You may be a skeptic like me but scientific studies have shown meditation has an impact. Brain scans
 ^ Many meditation teachers use a meditation focused on  self-compassion - called Loving-Kindess
 ^ I've been in therapy for a few years
 ^ Cognitive Behaviour Therapy focuses on the negative beliefs that cause us to be anxious or depressed
