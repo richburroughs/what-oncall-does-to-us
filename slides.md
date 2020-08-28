@@ -1,4 +1,4 @@
-theme: Customized Zurich, 6
+theme: Customiz Zurich, 6
 
 # What On-Call Does to Us
 
@@ -238,7 +238,8 @@ FireHydrant.com
 - Online survey of 228 subjects
 - Looked at "sex differences" related to on-call
 
-^ Focused on sex not gender, although people likely self identified. It's not clear.
+^ I'm not crazy about this being binary
+^ Focused on sex not gender, although it was an online survey so people likely self identified. It's not clear.
 
 ---
 
@@ -251,9 +252,55 @@ FireHydrant.com
 
 ---
 
-![100%](images/study3_table.png)
+# How much does on-call work interfere with... 
 
-^ The women say they are impacted more on all three of these questions
+## The sort of things you would like to do in your leisure time (e.g. sport, activities, hobbies)
+
+| | Male | Female |
+| --- | --- | --- |
+| Not at all/a bit | 22.3% | 13.3% |
+| Somewhat | 43.8% | 29.6% |
+| A lot/very much | 33.8% | 57.1% |
+
+^ Many more women saying a lot
+
+---
+
+# How much does on-call work interfere with... 
+
+## The domestic things you have to do in your time off work (e.g. domestic tasks, children)
+
+| | Male | Female |
+| --- | --- | --- |
+| Not at all/a bit | 36.9% | 19.4% |
+| Somewhat | 36.2% | 41.8% |
+| A lot/very much | 26.9% | 38.8% |
+
+^ Less of an impact than the last question but still more women saying a lot and very much
+---
+
+# How much does on-call work interfere with... 
+
+## The non-domestic things you have to do in your time off work (e.g. doctor, library, bank)
+
+| | Male | Female |
+| --- | --- | --- |
+| Not at all/a bit | 50.8% | 27.6% |
+| Somewhat | 29.2% | 39.8% |
+| A lot/very much | 20.0% | 32.7% |
+
+---
+
+# I didn't know this 
+
+---
+
+# To summarize the studies
+
+- The uncertainty of being on-call is impactful
+- Negative effects can happen with no incidents
+- Mental detachment can help recovery
+- Being on-call interferes more with some people's lives
 
 ---
 
