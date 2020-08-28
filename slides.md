@@ -3,6 +3,7 @@ theme: Customiz Zurich, 6
 # What On-Call Does to Us
 
 ^ Looking at what science can tell us about the impact of on-call
+^ I attended Deserted Island DevOps and I'm very happy to be here
 
 ---
 
@@ -15,11 +16,11 @@ FireHydrant.com
 
 ---
 
-# 1996
+# It was 1996
 
 ![inline 70%](images/independence_day.jpg)
 
-^ It was 1996, the year that Independence Day was relased
+^ The year that Independence Day was relased
 ^ It was a simpler time
 ^ Got a call center job at an ISP and got promoted to sysadmin
 
