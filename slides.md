@@ -3,16 +3,11 @@ theme: Customiz Zurich, 6
 # What On-Call Does to Us
 
 ^ Looking at what science can tell us about the impact being of on-call
-^ I attended Deserted Island DevOps and had a blast, and  I'm super happy to be here
 
 ---
 
 Rich Burroughs
-Senior Developer Advocate
-FireHydrant.com
 @richburroughs on Twitter
-
-^ FireHydrant, an incident response tool
 
 ---
 
@@ -418,18 +413,10 @@ FireHydrant.com
 
 ---
 
-![inline 160%](images/Logo.png)
-
-^ Thank you all for listening and to the organizers
-^ I attended DI Devops and it's great to be here
-^ I work at FireHydrant
-^ I'm happy to say that we're hiring
-
----
-
 # Feedback is appreciated
 
 # https://bit.ly/3jmHzm8
 
+^ Thank you all for listening and to the organizers
 ^ Would love to hear your feedback on the talk
 ^ It's anonymous and should just take a few minutes
