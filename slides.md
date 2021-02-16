@@ -1,4 +1,4 @@
-theme: Zurich, 6
+theme: Custom Zurich, 6
 
 # What On-Call Does to Us
 
