@@ -424,10 +424,7 @@ Rich Burroughs
 
 ---
 
-# Feedback is appreciated
+# Thank you
 
-# https://bit.ly/3jmHzm8
+^ Thank you to the organizers and thank you all for listening
 
-^ Thank you all for listening and to the organizers
-^ Would love to hear your feedback on the talk
-^ It's anonymous and should just take a few minutes
