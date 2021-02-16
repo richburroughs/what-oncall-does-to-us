@@ -1,4 +1,4 @@
-theme: Customiz Zurich, 6
+theme: Zurich, 6
 
 # What On-Call Does to Us
 
@@ -23,7 +23,8 @@ Rich Burroughs
 
 ![inline 80%](images/pager.jpg)
 
-^ My boss got me a pager. I was the only sysadmin, and I was suddenly on-call all of the time for a small number of Linux hosts (5-10)
+^ My boss got me a pager.
+^ I was the only sysadmin, and I was suddenly on-call all of the time for a small number of Linux hosts (5-10)
 
 ---
 
@@ -39,16 +40,16 @@ Rich Burroughs
 
 ^ Fast forward 20 years.
 ^ I worked next as a sysadmin at WebMD, when the company was taking out Super Bowl ads, then at a web hosting company, a payments company, a company with an email maarketing platform, and then finally as an SRE at Puppet
- I'd been on-call for most of that time, in rotations of different sizes. Some as small as 3 people, some as big as 10.
-^ For a while I was on a team where our boss divided us up by time slots instead of weeks. I was oncall every evening from 7PM to midnight.
+^ I'd been on-call for most of that time, in rotations of different sizes. Some as small as 3 people, some as big as 10.
+^ For a while I was at a company where our boss divided us up by time slots instead of weeks. I was oncall every evening from 7PM to midnight.
 
 ---
 
 # My mental health had deteriorated
 
 ^ I started having very bad claustrophobia and had panic attacks when I would board airplanes.
-^ The first time I had a debate with myself about asking them to let me off of the plane.
-^ I was diagnosed with Generalized Anxiety Disorder. I also had episodes of depression where I'd be in bed for a week straight.
+^ The first time it happened I had a debate with myself about asking them to let me off of the plane.
+^ I was diagnosed with Generalized Anxiety Disorder. I also have had episodes of depression where I'd be in bed for a week straight.
 
 ---
 
@@ -83,8 +84,6 @@ Rich Burroughs
 
 ^ I'm going to share with you a few scientific studies about being on-call
 
-
-
 ---
 
 # Sleep studies
@@ -97,7 +96,11 @@ Rich Burroughs
 ![100%](images/ted_talk.png)
 
 ^ There was a great Ted talk from 2019 by a sleep scientist named Matt Walker
-^ His team did a study where they found people in a sleep deprived group had a 40% learning deficit
+^ His team did a study where they had the participants divided into two groups
+^ One group slept normally and the other was sleep deprived
+^ They found that people in the sleep deprived group had a 40% learning deficit
+^ I've been woken up by Pager Duty many times and I've felt the impact of that
+^ But I don't think I considered that along with all of the other impacts, I wasn't learning as well
 
 ---
 
@@ -113,6 +116,8 @@ Rich Burroughs
 ---
 
 # On-call studies
+
+^ Now let's talk about these on-call specific studies
 
 ---
 
@@ -309,6 +314,7 @@ Rich Burroughs
 
 ^ I'm single and have no children
 ^ It makes sense but I just hadn't considered it a lot
+^ People may feel more of an impact from being on call than I did
 
 ---
 
@@ -362,7 +368,7 @@ Rich Burroughs
 
 ![80%](images/alex_book.png)
 
-^ Available for Kindle now, release date is September 15
+^ Some of you may have heard of this book
 
 ---
 
@@ -395,6 +401,11 @@ Rich Burroughs
 ---
 
 ![20%](images/when_panic_attacks.jpg)
+
+^ I want to give a shout out to this book that my therapist recommended
+^ He previously wrote a book about depression called Feeling Good
+^ Both books focus on Cognitive Behavior Therapy and have lots of exercises
+^ Scientists did studies where they found that people who used Feeling Good without a therapist got better results than peoeple who used antidepressants - they call it bibliotherapy
 
 ---
 
