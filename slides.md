@@ -426,5 +426,9 @@ Rich Burroughs
 
 # Thank you
 
+Slides are here:
+
+http://bit.ly/what-oncall-does
+
 ^ Thank you to the organizers and thank you all for listening
 
