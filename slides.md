@@ -320,7 +320,7 @@ Rich Burroughs
 
 # To summarize the studies
 
-- The uncertainty of being on-call is impactful, even if there are no incidents
+- The uncertainty of being on-call can be impactful, even if there are no incidents
 - Mental detachment can help with recovery
 - Being on-call interferes more with some people's lives than others
 
