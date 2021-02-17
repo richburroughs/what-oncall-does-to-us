@@ -7,6 +7,8 @@ theme: Custom Zurich, 6
 ---
 
 Rich Burroughs
+DevRel Person
+I'm Hirable
 @richburroughs on Twitter
 
 ---
